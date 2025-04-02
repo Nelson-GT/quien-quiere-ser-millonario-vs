@@ -213,6 +213,7 @@ function startGame() {
     }
     // Finaliza el juego y muestra los resultados finales.
     function endGame(winningPlayer) {
+        clearInterval(timer);
         continuar = false;
         gameStarted = false;
         gameEnded = true;
