@@ -21,7 +21,7 @@ O = respuesta arriba a la derecha
 K = respuesta abajo a la izquierda
 L = respuesta abajo a la derecha.
 
-10 Preguntas por partida – Cada juego tiene 10 preguntas de opción múltiple.
+Responde correctamente 10 preguntas – En cada partida, el primer jugador en responder de forma correcta 10 preguntas de opción múltiple ganará.
 ⏳ Responder rápido y correctamente – Ambos jugadores responden la misma pregunta al mismo tiempo. Cada pregunta tendrá una duración de 15 segundos, y un tiempo de transición de 3.5 segundos
 
 ## Puntuación y escala de premios:
