@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quién Quiere ser Millonario?</title>
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+  <script src="./scripts/custom.js" defer></script>
+  <link rel="stylesheet" href="styles/style.css">
+  <link rel="icon" href="assets/images/logo.ico"
+</head>
+
+<body>
+  <div class="game-intro">
+    <div class="game-container">
+      <h1>Quién Quiere ser Millonario</h1>
+    </div>
+    <div class="game__instructions">
+      <a href="./instructions.html">
+        <h2>
+          instrucciones
+        </h2>
+      </a>
+    </div>
+  </div>
+  <div class="image-container">
+    <img src="./assets/images/logo.png" alt="Quien quiere ser millonario Logo" width=534px height=541px>
+  </div>
+  <div class="container">
+    <div class="question" id="question"></div>
+    <p id="ganador-concurso"></p>
+    <div class="options" id="options"></div>
+    <div id="feedback"></div>
+    <div id="error"></div>
+    <div id="timer">
+      <div id="timer-fill"></div>
+    </div>
+    <div class="money-ladders-container">
+      <div>
+        <h3>Jugador 1</h3>
+        <ol class="money-ladder" id="money-ladder-1" style="counter-reset: ladder-step 0;">
+          <li>10$</li>
+          <li>20$</li>
+          <li>50$</li>
+          <li>100$</li>
+          <li>500$</li>
+          <li>1.000$</li>
+          <li>2.500$</li>
+          <li>5.000$</li>
+          <li>10.000$</li>
+          <li>100.000$</li>
+        </ol>
+      </div>
+      <div>
+        <h3>Jugador 2</h3>
+        <ol class="money-ladder" id="money-ladder-2" style="counter-reset: ladder-step 0;">
+          <li>10$</li>
+          <li>20$</li>
+          <li>50$</li>
+          <li>100$</li>
+          <li>500$</li>
+          <li>1.000$</li>
+          <li>2.500$</li>
+          <li>5.000$</li>
+          <li>10.000$</li>
+          <li>100.000$</li>
+        </ol>
+      </div>
+    </div>
+    <button id="start-button">Start Game</button>
+  </div>
+  <script>
+  </script>
+</body>
+
+</html>

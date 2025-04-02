@@ -1,0 +1,604 @@
+{
+    "response_code": 0,
+    "results":[
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Matemáticas",
+            "question": "¿Cuántas maneras distintas se pueden ordenar 3 objetos?",
+            "correct_answer": "6",
+            "incorrect_answers": [
+                "3",
+                "9",
+                "12"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Matemáticas",
+            "question": "¿Cuál es la fórmula para calcular el número de permutaciones de n elementos tomados de r en r?",
+            "correct_answer": "P(n, r) = n! / (n - r)!",
+            "incorrect_answers": [
+                "C(n, r) = n! / (r!(n - r)!)",
+                "V(n, r) = n^r",
+                "P(n, r) = r! / (n - r)!"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Matemáticas",
+            "question": "Si tienes 5 personas y necesitas elegir un grupo de 3 sin importar el orden, ¿qué método utilizas?",
+            "correct_answer": "Combinaciones",
+            "incorrect_answers": [
+                "Variaciones",
+                "Permutaciones",
+                "Factorización"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Matemáticas",
+            "question": "Si tienes un conjunto de 8 elementos y eliges 4 en un orden específico, ¿cuántas posibilidades existen?",
+            "correct_answer": "1680",
+            "incorrect_answers": [
+                "70",
+                "40320",
+                "24"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Matemáticas",
+            "question": "¿Cuál es la diferencia entre una permutación y una combinación?",
+            "correct_answer": "Las permutaciones consideran el orden, las combinaciones no.",
+            "incorrect_answers": [
+                "Las combinaciones consideran el orden, las permutaciones no.",
+                "Ambas consideran el orden.",
+                "Ninguna considera el orden."
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Matemáticas",
+            "question": "¿Cuántas formas existen para seleccionar 3 personas de un grupo de 7?",
+            "correct_answer": "35",
+            "incorrect_answers": [
+                "210",
+                "42",
+                "7"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Matemáticas",
+            "question": "Si tienes 10 jugadores y debes formar equipos de 4 en los que el orden importa, ¿cuál fórmula usarías?",
+            "correct_answer": "Permutaciones",
+            "incorrect_answers": [
+                "Combinaciones",
+                "Variaciones sin repetición",
+                "Variaciones con repetición"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Matemáticas",
+            "question": "¿Cuál es el número de combinaciones posibles al elegir 2 elementos de un conjunto de 4?",
+            "correct_answer": "6",
+            "incorrect_answers": [
+                "4",
+                "8",
+                "12"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Matemáticas",
+            "question": "¿Cómo se calcula una variación con repetición?",
+            "correct_answer": "V(n, r) = n^r",
+            "incorrect_answers": [
+                "C(n, r) = n! / (r!(n - r)!)",
+                "P(n, r) = n! / (n - r)!",
+                "V(n, r) = n! / r!"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Matemáticas",
+            "question": "¿Cuántas maneras hay de ordenar las letras de la palabra 'MATH'?",
+            "correct_answer": "24",
+            "incorrect_answers": [
+                "12",
+                "16",
+                "32"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Matemáticas",
+            "question": "¿Cuál es la fórmula para calcular una permutación de n elementos tomados de r en r?",
+            "correct_answer": "P(n, r) = n! / (n - r)!",
+            "incorrect_answers": [
+                "C(n, r) = n! / (r!(n - r)!)",
+                "V(n, r) = n^r",
+                "P(n, r) = r! / (n - r)!"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Matemáticas",
+            "question": "Si tienes 5 jugadores y quieres formar una fila ordenada de 3, ¿cuántas permutaciones posibles existen?",
+            "correct_answer": "60",
+            "incorrect_answers": [
+                "10",
+                "20",
+                "120"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Matemáticas",
+            "question": "Si tienes 7 libros y deseas colocarlos en un estante en orden, ¿cuántas permutaciones distintas existen?",
+            "correct_answer": "5040",
+            "incorrect_answers": [
+                "720",
+                "2520",
+                "1680"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Matemáticas",
+            "question": "¿Qué diferencia hay entre permutaciones y combinaciones?",
+            "correct_answer": "Las permutaciones consideran el orden, las combinaciones no.",
+            "incorrect_answers": [
+                "Las combinaciones consideran el orden, las permutaciones no.",
+                "Ambas consideran el orden.",
+                "Ninguna considera el orden."
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Matemáticas",
+            "question": "Si tienes 6 colores y quieres ordenar 4 en una secuencia, ¿cuántas permutaciones distintas existen?",
+            "correct_answer": "360",
+            "incorrect_answers": [
+                "120",
+                "216",
+                "720"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Matemáticas",
+            "question": "Si tienes 7 elementos y quieres ordenarlos en grupos de 2, ¿cuántas permutaciones posibles hay?",
+            "correct_answer": "42",
+            "incorrect_answers": [
+                "40",
+                "38",
+                "60"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Matemáticas",
+            "question": "Si hay 4 estudiantes y deben alinearse para una foto, ¿cuántas maneras pueden hacerlo?",
+            "correct_answer": "24",
+            "incorrect_answers": [
+                "12",
+                "8",
+                "16"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Matemáticas",
+            "question": "¿Cuál es el número de permutaciones posibles al organizar 3 letras distintas de un conjunto de 5?",
+            "correct_answer": "60",
+            "incorrect_answers": [
+                "20",
+                "120",
+                "30"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Matemáticas",
+            "question": "Si tienes 8 ingredientes para hacer una pizza y debes elegir 4 en un orden específico, ¿cuántas maneras hay?",
+            "correct_answer": "1680",
+            "incorrect_answers": [
+                "70",
+                "40320",
+                "24"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Matemáticas",
+            "question": "Si hay una carrera con 10 participantes y solo los primeros 3 ganan medallas en orden, ¿cuántas maneras existen de obtener un podio?",
+            "correct_answer": "720",
+            "incorrect_answers": [
+                "120",
+                "30",
+                "1000"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Matemáticas",
+            "question": "En una carrera de 5 corredores, ¿cuántas formas hay de asignar el primer y segundo lugar?",
+            "correct_answer": "20",
+            "incorrect_answers": [
+                "10",
+                "25",
+                "15"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Matemáticas",
+            "question": "Si en una biblioteca hay 6 libros distintos y se deben escoger 2 para colocarlos en un orden específico, ¿cuántas formas existen?",
+            "correct_answer": "30",
+            "incorrect_answers": [
+                "15",
+                "60",
+                "12"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Matemáticas",
+            "question": "Un comité tiene 8 personas. Se eligen un presidente, un vicepresidente y un tesorero, en ese orden. ¿Cuántas selecciones diferentes pueden hacerse?",
+            "correct_answer": "336",
+            "incorrect_answers": [
+                "56",
+                "112",
+                "24"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Matemáticas",
+            "question": "En una prueba con 5 preguntas, si hay 4 respuestas posibles por pregunta y se debe responder en un orden específico, ¿cuántas posibles maneras de responder hay?",
+            "correct_answer": "1024",
+            "incorrect_answers": [
+                "256",
+                "625",
+                "120"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Matemáticas",
+            "question": "Si hay 7 jugadores y se deben elegir 3 para ocupar posiciones específicas en un equipo de fútbol, ¿cuántas maneras hay de hacer la selección?",
+            "correct_answer": "210",
+            "incorrect_answers": [
+                "35",
+                "120",
+                "70"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Matemáticas",
+            "question": "Una tienda de ropa ofrece 5 colores de camisetas y 3 tipos de pantalón. Si un cliente selecciona una combinación exacta en un orden específico, ¿cuántas opciones tiene?",
+            "correct_answer": "15",
+            "incorrect_answers": [
+                "8",
+                "10",
+                "12"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Matemáticas",
+            "question": "Si se deben asignar números de placa únicos a 2 autos de una flota de 6 vehículos, ¿cuántas maneras hay de hacerlo?",
+            "correct_answer": "30",
+            "incorrect_answers": [
+                "12",
+                "18",
+                "24"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Matemáticas",
+            "question": "En una competencia de ajedrez, hay 10 participantes y se asignan puestos de primero, segundo y tercero. ¿Cuántas maneras diferentes hay de asignar los premios?",
+            "correct_answer": "720",
+            "incorrect_answers": [
+                "100",
+                "30",
+                "90"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Matemáticas",
+            "question": "Un profesor debe ordenar a 5 estudiantes en una fila para una presentación. ¿Cuántas configuraciones distintas de orden puede hacer?",
+            "correct_answer": "120",
+            "incorrect_answers": [
+                "60",
+                "24",
+                "48"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Matemáticas",
+            "question": "En una tienda de electrónica hay 6 tipos de celulares y 4 tipos de audífonos. Si un cliente escoge un celular y unos audífonos específicos en un orden determinado, ¿cuántas combinaciones posibles existen?",
+            "correct_answer": "24",
+            "incorrect_answers": [
+                "12",
+                "10",
+                "16"
+            ]
+        },{
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Matemáticas",
+            "question": "En una reunión hay 12 personas. Si se necesita formar un equipo de 4 personas, ¿cuántas combinaciones posibles existen?",
+            "correct_answer": "495",
+            "incorrect_answers": [
+                "120",
+                "330",
+                "600"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Matemáticas",
+            "question": "Un profesor necesita elegir a 5 estudiantes de un grupo de 8 para un concurso. ¿Cuántas selecciones posibles hay?",
+            "correct_answer": "56",
+            "incorrect_answers": [
+                "1024",
+                "200",
+                "40"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Matemáticas",
+            "question": "En una biblioteca hay 10 libros sobre física. Si un estudiante escoge 3 libros para estudiar, ¿cuántas combinaciones distintas existen?",
+            "correct_answer": "120",
+            "incorrect_answers": [
+                "40",
+                "90",
+                "150"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Matemáticas",
+            "question": "Un equipo de fútbol tiene 14 jugadores y debe elegir 5 para formar la alineación titular. ¿Cuántas combinaciones distintas hay?",
+            "correct_answer": "2002",
+            "incorrect_answers": [
+                "4026",
+                "625",
+                "2086"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Matemáticas",
+            "question": "En una empresa hay 15 empleados y se deben elegir 5 para un proyecto especial. ¿Cuántas combinaciones posibles hay?",
+            "correct_answer": "3,003",
+            "incorrect_answers": [
+                "1,456",
+                "7,890",
+                "5,678"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Matemáticas",
+            "question": "Un torneo de ajedrez cuenta con 14 jugadores. Si se eligen 4 para pasar a la siguiente ronda, ¿cuántas combinaciones pueden formarse?",
+            "correct_answer": "1,001",
+            "incorrect_answers": [
+                "500",
+                "1,500",
+                "2,200"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Matemáticas",
+            "question": "En una tienda de ropa hay 8 tipos de camisas y se deben escoger 3 para exhibición. ¿Cuántas combinaciones distintas pueden elegirse?",
+            "correct_answer": "56",
+            "incorrect_answers": [
+                "32",
+                "75",
+                "90"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Matemáticas",
+            "question": "Una biblioteca tiene 12 revistas y se deben elegir 4 para una exposición. ¿Cuántas formas distintas hay de seleccionarlas?",
+            "correct_answer": "495",
+            "incorrect_answers": [
+                "250",
+                "700",
+                "1,000"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Matemáticas",
+            "question": "En un club hay 10 miembros y se debe elegir un equipo de 5 para un torneo de debate. ¿Cuántas maneras distintas hay de hacerlo?",
+            "correct_answer": "120",
+            "incorrect_answers": [
+                "180",
+                "150",
+                "165"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Matemáticas",
+            "question": "Una escuela tiene 25 alumnos y debe elegir un grupo de 20 para participar en un evento académico. ¿Cuántas combinaciones distintas hay?",
+            "correct_answer": "53130",
+            "incorrect_answers": [
+                "15",
+                "100000",
+                "89120"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Bonus",
+            "question": "BONUS: ¿En qué año cayó el Imperio Romano de Occidente?",
+            "correct_answer": "476 d.C.",
+            "incorrect_answers": [
+                "1492 d.C.",
+                "1066 d.C.",
+                "395 d.C."
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Bonus",
+            "question": "BONUS: ¿Cuál es el país con más idiomas oficiales en el mundo?",
+            "correct_answer": "India",
+            "incorrect_answers": [
+                "Suiza",
+                "Sudáfrica",
+                "Papúa Nueva Guinea"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Bonus",
+            "question": "BONUS: ¿Qué escritor es famoso por crear el personaje de Sherlock Holmes?",
+            "correct_answer": "Arthur Conan Doyle",
+            "incorrect_answers": [
+                "Agatha Christie",
+                "Edgar Allan Poe",
+                "Bram Stoker"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Bonus",
+            "question": "BONUS: ¿En qué año se firmó la Declaración de Independencia de los Estados Unidos?",
+            "correct_answer": "1776",
+            "incorrect_answers": [
+                "1789",
+                "1812",
+                "1754"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Bonus",
+            "question": "BONUS: ¿Cuál es el único mamífero capaz de volar?",
+            "correct_answer": "Murciélago",
+            "incorrect_answers": [
+                "Colibrí",
+                "Lemur volador",
+                "Pangolín"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Bonus",
+            "question": "BONUS: ¿Quién pintó la famosa obra 'El grito'?",
+            "correct_answer": "Edvard Munch",
+            "incorrect_answers": [
+                "Vincent van Gogh",
+                "Pablo Picasso",
+                "Claude Monet"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Bonus",
+            "question": "BONUS: ¿Qué país es el mayor productor de café en el mundo?",
+            "correct_answer": "Brasil",
+            "incorrect_answers": [
+                "Colombia",
+                "Etiopía",
+                "Vietnam"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Bonus",
+            "question": "BONUS: ¿Cuál es el nombre del océano más grande del planeta?",
+            "correct_answer": "Océano Pacífico",
+            "incorrect_answers": [
+                "Océano Atlántico",
+                "Océano Índico",
+                "Océano Ártico"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Bonus",
+            "question": "BONUS: ¿Qué civilización construyó la ciudad de Machu Picchu?",
+            "correct_answer": "Inca",
+            "incorrect_answers": [
+                "Maya",
+                "Azteca",
+                "Olmeca"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Bonus",
+            "question": "BONUS: ¿Cuál es el metal más abundante en la corteza terrestre?",
+            "correct_answer": "Aluminio",
+            "incorrect_answers": [
+                "Hierro",
+                "Cobre",
+                "Plata"
+            ]
+        }
+    ]
+}
